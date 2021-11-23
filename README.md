@@ -7,3 +7,4 @@ Taxes
 Total Calculated Bill
 Clear Field
 Exit
+![full](https://user-images.githubusercontent.com/88109927/142976750-b75e63bf-47cd-4659-9557-27becdecf9f2.png)
